@@ -1,0 +1,9 @@
+{
+  "name": "seongun-school",
+  "version": "1.0.0",
+  "description": "성운고등학교 가상 학교 사이트 (대신전해드립니다)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
